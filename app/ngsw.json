@@ -1,0 +1,113 @@
+{
+  "configVersion": 1,
+  "timestamp": 1665511788381,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/359.88d63cd502cc338c.js",
+        "/477.108b54b270dc84e8.js",
+        "/486.0c67c79dd5d0a0ad.js",
+        "/561.f1e6055fe0d93828.js",
+        "/874.acbda10f9984fd3b.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.3426955b659b831c.js",
+        "/manifest.webmanifest",
+        "/my-service-worker.js",
+        "/polyfills.668d23b0188a68ef.js",
+        "/runtime.4b3b7918c66502fc.js",
+        "/styles.8cf583f4c75b2e54.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/93210-green-car.gif",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/second/index.html",
+        "/assets/second/script.js",
+        "/assets/second/style.css",
+        "/assets/start/index.html",
+        "/assets/start/script.js",
+        "/assets/start/style.css",
+        "/assets/styles.css",
+        "/assets/wavyForm/index.html",
+        "/assets/wavyForm/style.css"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/359.88d63cd502cc338c.js": "3e735e83e05ec100e7292bd97369afce5bd7fa1a",
+    "/477.108b54b270dc84e8.js": "21722f3a0624b465af928a0a97a35ff79540c9cf",
+    "/486.0c67c79dd5d0a0ad.js": "c26014ecef55ddbbfd4ad1ed29f81665a3711fd5",
+    "/561.f1e6055fe0d93828.js": "823e8c9b9e0060013590498f7b2a8f62bb15723e",
+    "/874.acbda10f9984fd3b.js": "95a145a57bce150628a46a8d4c8a41f97769209f",
+    "/assets/93210-green-car.gif": "e1783300c82fa97db0489eda044eed219687bd2a",
+    "/assets/icons/icon-128x128.png": "e5758076d8b894a5efc6004e52dc612cfbb9f3ef",
+    "/assets/icons/icon-144x144.png": "f9a586b8b79835fa03c9c86a906e0f11e32f436b",
+    "/assets/icons/icon-152x152.png": "2e2c34bfef0cc3cc71d63b0b5c32412ce600fe49",
+    "/assets/icons/icon-192x192.png": "febe2f8cedadfbc670beef291a52ad4bf12cb49f",
+    "/assets/icons/icon-384x384.png": "27ba3dc09003a9185e75cc94b50cf5c134a4d1e0",
+    "/assets/icons/icon-512x512.png": "0c320da5e5dfebc16714c40b3897e49262f12d0e",
+    "/assets/icons/icon-72x72.png": "c83fe6e7b38954a0f448374a8a19ce7ff0ec7aa4",
+    "/assets/icons/icon-96x96.png": "45a5c512d7488051290834f3fd58b6bff504c05a",
+    "/assets/second/index.html": "fce2326b04415029e94556f13526a9e0a8f04cbd",
+    "/assets/second/script.js": "00cdc617729a8d0248e44a10d7d1100a43f380ad",
+    "/assets/second/style.css": "5621ef8ed7194c803b146c72f48684ee8f97629f",
+    "/assets/start/index.html": "9a1702871a669262ae49ffac889cc07fad7f4414",
+    "/assets/start/script.js": "09145b8ad3d9e05c1d93682cb47ff04ab56520a8",
+    "/assets/start/style.css": "430cc15bcb04a3ebf48e6e0b2e156d6bb1b82ac1",
+    "/assets/styles.css": "3bda28054c8208b980b1f7110ecb45a56787e5f7",
+    "/assets/wavyForm/index.html": "cf5a30b2bac8f1cbf90aa5b6605694b374837a86",
+    "/assets/wavyForm/style.css": "499f5691712b4cb86b5fc1fac54e6dcd4bd9c647",
+    "/favicon.ico": "4de7141d2452598fc84611c32d638a3defc0064d",
+    "/index.html": "ef759ea41d5092cc222af909357a739fd291402b",
+    "/main.3426955b659b831c.js": "d6bbcffc787a137a9b3c4de6ed2450cc09f770d9",
+    "/manifest.webmanifest": "76e87e323ad2c1ab9387b46f57afe4d87e17a870",
+    "/my-service-worker.js": "60e9ae2cc4fc7131fad9de1c3a440eaf44ab898f",
+    "/polyfills.668d23b0188a68ef.js": "4c5bd6e2b6a2a6f704b60d8feda028c4e6b6b6a6",
+    "/runtime.4b3b7918c66502fc.js": "bff01867f4fc2e0b625b91ef8f4d8f5e1f56ebcb",
+    "/styles.8cf583f4c75b2e54.css": "3f43eeff899d04ad814d4591d49ea43f962e3f50"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
