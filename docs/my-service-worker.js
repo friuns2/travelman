@@ -31,8 +31,9 @@ self.addEventListener('fetch', async function(event) {
    var url =event.request.url.replace(/(&key=\w*)|(&token=\d*)/g,"");
 
     var ar = [
-        'https://maps.googleapis.com/maps/api/place/js/Place',
-        'https://maps.googleapis.com/maps/api/place/',
+        'https://maps.googleapis.com/maps/api/place/js/PhotoService',
+        'https://maps.googleapis.com/maps/vt/'
+        //'https://maps.googleapis.com/maps/api/place/',
     ]
     //start with any of the strings in the array
 

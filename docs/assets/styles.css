@@ -5,6 +5,10 @@ button{
 .pac-container {
     z-index: 2000
 }
+.btn{
+    /*display: flex;*/
+    margin: 10px;
+}
 .myclass{
     color: white;
     text-shadow: 0 0 3px black;
